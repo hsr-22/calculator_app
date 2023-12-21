@@ -2,7 +2,7 @@
 
 It is a very simplistic but functional calculator app with a GUI written using JavaScript.
 
-The application can be viewed [here](https://hsr-22.github.io/calculator_app)
+The application can be viewed [here](https://hsr-22.github.io/calculator_app/)
 
 > A sample demonstration of the application[^1]
 
